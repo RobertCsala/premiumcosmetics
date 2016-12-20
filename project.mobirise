@@ -180,7 +180,7 @@
           "title": "Cosmetics from all over the World",
           "meta": "By John Smith posted July 30, 2015",
           "text": "You can find what you have been looking for so far! Just browse in our sortiment either at Webshop, or Amazon Store",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">webshop</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">amazon</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">webshop</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.amazon.com/s?marketplaceID=ATVPDKIKX0DER&amp;me=A2XCLR08QMVQ03&amp;merchant=A2XCLR08QMVQ03&amp;redirect=true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">amazon</a>"
         },
         {
           "alias": "purity/components",
@@ -221,10 +221,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "premiumcosmetics.myshopify.com",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -241,10 +241,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "www.itsfromeurope.com",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -261,10 +261,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.amazon.com/s?marketplaceID=ATVPDKIKX0DER&me=A2XCLR08QMVQ03&merchant=A2XCLR08QMVQ03&redirect=true",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -415,9 +415,13 @@
           },
           "logo": {
             "image": {
-              "src": "images/footer-logo.png",
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-265x176-3.jpg",
               "width": 265,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -425,9 +429,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>\nBudapest, Hungary<br>New York, USA",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@itsfromeurope.com<br>\nPhone: +36 70 945 22 30<br><br>",
-          "text3": "<strong>Links</strong><ul><p>- Webshop<br>- Amazon Store<br>- Brand representing&nbsp;</p></ul>"
+          "text3": "<strong>Links</strong><ul><p><a href=\"http://premiumcosmetics.myshopify.com\" target=\"_blank\">- Webshop</a><br><a href=\"https://www.amazon.com/s?marketplaceID=ATVPDKIKX0DER&amp;me=A2XCLR08QMVQ03&amp;merchant=A2XCLR08QMVQ03&amp;redirect=true\" target=\"_blank\">- Amazon Store</a><br><a href=\"http://www.itsfromeurope.com\" target=\"_blank\">- Brand representing&nbsp;</a>for European brands<br><a href=\"http://www.itsfromeurope.com\" target=\"_blank\"></a>- <a href=\"http://www.sellingtoeurope.com\" target=\"_blank\">Brand representing</a> for non-Europeans</p></ul>"
         },
         {
           "alias": "purity/components",
