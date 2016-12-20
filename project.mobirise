@@ -10,7 +10,7 @@
     "versionFirst": "3.10.4",
     "uniqCompNum": 18,
     "versionPublish": "3.10.4",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/premiumcosmetics-webshopicon-128x85-91.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@"
   },
