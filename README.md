@@ -1,2 +1,0 @@
-# premiumcosmetics
-GitHub Pages
